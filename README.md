@@ -23,15 +23,15 @@ Clone o repositório usando:
 $ git clone git@github.com:EmersonStark/tikoteko.git
 ```
 
-## Intalar Dependencias
+## Instalar dependências
 
-Acesse a pasta do projeto e instale as dependencias utilizando o comando abaixo:
+Acesse a pasta do projeto e instale as dependências utilizando o comando abaixo:
 
 ```
 $ yarn install
 ```
 
-## scripts disponiveis
+## scripts disponíveis
 
 Você pode executar os seguintes comandos:
 
